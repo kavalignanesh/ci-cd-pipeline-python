@@ -17,3 +17,5 @@ Whenever code is pushed to the repository, GitHub Actions triggers a workflow th
 
 ## 📌 Output
 The pipeline runs successfully with a green tick in the Actions tab.
+## Author
+Gnanesh Kavali
